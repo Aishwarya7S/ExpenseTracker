@@ -12,10 +12,3 @@ A simple Expense Tracker web application that allows users to:
 • **CSS (Bootstrap 5)**  
 • **JavaScript**  
 
-##  Features  
-• **Set Threshold:** Users can define a spending limit.  
-• **Add Expense:** Enter the expense name, amount, and date.  
-• **Track Expenses:** View expenses in a table format.  
-• **Delete Expenses:** Remove any added expense.  
-• **Total Calculation:** Automatically updates the total expenses.  
-• **Threshold Alert:** Warns users when expenses exceed the set limit.  
