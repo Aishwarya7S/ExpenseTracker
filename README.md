@@ -1,4 +1,4 @@
-# Expense Tracker with Threshold  
+# Expense Tracker 
 
 A simple Expense Tracker web application that allows users to:  
 - Set a threshold value for expenses.  
